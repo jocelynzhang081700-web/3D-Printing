@@ -1,4 +1,5 @@
-# 3D Printing Project - The Guitar's Brother  3D打印作业——吉他的弟弟
+# 3D Printing Project - The Guitar's Brother
+# 3D打印作业——吉他的弟弟
 ## 模型文件处理
 先尝试把3D scanner app上传照片得到扫描的吉他导入Blender中看看模型情况，发现有很多凹凸不平的面和残缺破面
 <img width="1964" height="1142" alt="image" src="https://github.com/user-attachments/assets/9b1d949e-e8f4-48a0-b6b0-b7fcadb6c3ed" />
